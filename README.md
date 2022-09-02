@@ -4,4 +4,4 @@
 
 ### Run following script to start the server
 
-`npm run start`
+`npm run dev`
